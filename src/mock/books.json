@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "A Menina que Roubava Livros",
+        "href": "#",
+        "image": {
+            "src": "https://m.media-amazon.com/images/I/61Fo3CitEGL._AC_UF1000,1000_QL80_.jpg",
+            "alt": "A Menina que Roubava Livros"
+        },
+        "description": "Ao perceber que a pequena Liesel Meminger, uma ladra de livros, lhe escapa, a Morte afeiçoa-se à menina e rastreia suas pegadas de 1939 a 1943...",
+        "details": [
+            "ISBN-13: 9788598078373",
+            "ISBN-10: 8598078379",
+            "Ano: 2011 / Páginas: 480",
+            "Idioma: português",
+            "Editora: Intrínseca"
+        ],
+        "reviews": {
+            "href": "#",
+            "average": 4,
+            "totalCount": 140805
+        }
+    },
+    {
+        "id": 2,
+        "name": "O Pequeno Príncipe",
+        "href": "#",
+        "image": {
+            "src": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/gg/9788535911121/o-menino-do-pijama-listrado.jpg",
+            "alt": "O Pequeno Príncipe"
+        },
+        "description": "Livro de criança? Com certeza. Livro de adulto também, pois todo homem traz dentro de si o menino que foi...",
+        "details": [
+            "ISBN-13: 9788522030828",
+            "ISBN-10: 8522030820",
+            "Ano: 2015 / Páginas: 96",
+            "Idioma: português",
+            "Editora: Agir"
+        ],
+        "reviews": {
+            "href": "#",
+            "average": 4,
+            "totalCount": 246118
+        }
+    },
+    {
+        "id": 3,
+        "name": "O Menino do Pijama Listrado",
+        "href": "#",
+        "image": {
+            "src": "https://m.media-amazon.com/images/I/81MscdgdwLL._AC_UF1000,1000_QL80_.jpg",
+            "alt": "O Menino do Pijama Listrado"
+        },
+        "description": "Bruno tem nove anos e não sabe nada sobre o Holocausto e a Solução Final contra os judeus...",
+        "details": [
+            "ISBN-13: 9788535911121",
+            "ISBN-10: 853591112X",
+            "Ano: 2007 / Páginas: 190",
+            "Idioma: português",
+            "Editora: Seguinte"
+        ],
+        "reviews": {
+            "href": "#",
+            "average": 4,
+            "totalCount": 86151
+        }
+    },
+    {
+        "id": 4,
+        "name": "Dom Quixote",
+        "href": "#",
+        "image": {
+            "src": "https://m.media-amazon.com/images/I/51XULadddlL.jpg",
+            "alt": "Dom Quixote"
+        },
+        "description": "Considerado por muitos o primeiro romance moderno, Dom Quixote é uma obra ímpar. O engenhoso fidalgo Dom Quixote de La Mancha, cujo nome verdadeiro é Alonso Quixano, transforma-se em cavaleiro andante...",
+        "details": [
+            "ISBN-13: 9788525403181",
+            "ISBN-10: 8525403181",
+            "Ano: 2020 / Páginas: 1072",
+            "Idioma: português",
+            "Editora: Edipro"
+        ],
+        "reviews": {
+            "href": "#",
+            "average": 4.5,
+            "totalCount": 2350
+        }
+    }
+]
